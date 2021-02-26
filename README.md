@@ -1,5 +1,5 @@
 # Building a multi-class classification model for imbalance data to predict burn severity using Python
-This is the code repository for [Deep-forest-Py]. The details about the notebook and requirements of this projects is listed below.
+This is the code repository for [Deep-forest-Py]. The details about the notebook and requirements of this projects is listed below:
 ## About the Note Book
 The objective of the project is
 * Finding out the importance feature before classification to reduce time and improve
