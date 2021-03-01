@@ -8,7 +8,7 @@ classification accuracy
 LiDAR Metrics and asses the accuracy of the model.
 * predict a dummy data to test the model accuracy.
 ## Requirements
-This project is developed suing the following packages:
+This project is developed using the following packages:
 * Python version 3.8.5
 * `TensorFlow` 2.4.0
 * `Keras` 2.4.3
